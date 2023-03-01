@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 1 mar 2023, 7:52:56
+    Author     : andru
+*/
+
+  body
+      {
+          background-color: #33B2FF;
+          
+          color: white;
+          font-family: Climate Crisis;
+      }
+      strong
+      {
+          color: white;
+      }
+      
